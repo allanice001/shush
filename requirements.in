@@ -1,0 +1,12 @@
+aiohttp
+async-timeout
+attrs
+chardet
+colorama
+idna
+multidict
+pony
+slackclient
+tqdm
+yara-python
+yarl
