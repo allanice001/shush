@@ -41,7 +41,7 @@ pony==0.7.16
     # via -r requirements.in
 slackclient==2.9.4
     # via -r requirements.in
-tqdm==4.65.0
+tqdm==4.66.3
     # via -r requirements.in
 yara-python==4.3.1
     # via -r requirements.in
