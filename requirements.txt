@@ -20,7 +20,7 @@ attrs==23.2.0
     #   aiohttp
 chardet==5.2.0
     # via -r requirements.in
-charset-normalizer==3.2.0
+charset-normalizer==3.3.2
     # via aiohttp
 colorama==0.4.6
     # via -r requirements.in
