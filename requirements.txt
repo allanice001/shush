@@ -45,7 +45,7 @@ tqdm==4.67.1
     # via -r requirements.in
 yara-python==4.5.4
     # via -r requirements.in
-yarl==1.19.0
+yarl==1.20.1
     # via
     #   -r requirements.in
     #   aiohttp
