@@ -10,7 +10,7 @@ aiohttp==3.13.0
     #   slackclient
 aiosignal==1.4.0
     # via aiohttp
-async-timeout==4.0.2
+async-timeout==5.0.1
     # via
     #   -r requirements.in
     #   aiohttp
