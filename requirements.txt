@@ -18,7 +18,7 @@ attrs==23.2.0
     # via
     #   -r requirements.in
     #   aiohttp
-chardet==5.2.0
+chardet==6.0.0.post1
     # via -r requirements.in
 charset-normalizer==3.4.3
     # via aiohttp
